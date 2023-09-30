@@ -1,6 +1,6 @@
 # etl_airflow_pandas
 
-Simple ETL pipeline with data from Spotify API
+ETL pipeline with data from Spotify API
 
 * Get data from spotify api and save as json
 * Get json and tranform with pandas
