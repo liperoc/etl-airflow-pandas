@@ -1,4 +1,4 @@
-# etl_airflow_pandas
+# etl-airflow-pandas
 
 ETL pipeline with data from Spotify API
 
